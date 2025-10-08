@@ -1,2 +1,2 @@
 # Recipe-App
-Recipe Finder App
+This is a Recipe Finder App
